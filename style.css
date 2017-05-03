@@ -1,0 +1,61 @@
+body {
+  background: url("https://raw.githubusercontent.com/AshleyCheny/Build-a-Tribute-Page/master/apple-store-feature-hero.jpg") no-repeat center fixed;
+  background-size: cover;
+  font-size: 14px;
+}
+h1, h2 {
+  letter-spacing: 1px;
+}
+.box {
+  margin-bottom: 20px;
+  padding: 30px 60px;
+  background: rgba(255,255,255,0.9);
+}
+
+
+.img-full {
+  min-width:100%;
+}
+.welcome {
+  font-size: 30px;
+  padding-top: 20px;
+  font-family: 'EB Garamond', serif;
+}
+.name {
+  font-family: 'Bevan', cursive;
+  font-size: 60px;
+  padding: 20px;
+}
+
+.hr1 {
+  width: 30%;
+}
+.author {
+  font-family: 'Sacramento', cursive;
+  font-size: 40px;
+}
+
+.h23 {
+  width: 30%;
+}
+
+.pageTitle {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.floatImg {
+  width: 20%;
+  float: left;
+  margin: 10px 20px;
+}
+.paragraphs {
+  
+} 
+footer {
+  background: rgba(255, 255,255,0.9);
+}
+footer p {
+  margin: 0;
+  padding: 50px 0;
+}
